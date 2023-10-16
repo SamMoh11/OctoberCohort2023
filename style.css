@@ -4,8 +4,8 @@
 
     body{
        
-        background-color: #B0DBF1;
-        color: darkcyan;
+        background-color: peachpuff;
+        color:black;
         border: 1px solid black;
         
     }
@@ -13,24 +13,26 @@
    
     a{
         color: black;
-        text-decoration: none;
-
+        text-decoration: underline
+    
+        
     }
 
     header{
-        background-color: black;
+        background-color:#fa683f;
         width: 50%;
         margin: auto; 
-    
+        color:black;
     }
     
-        
+      
 main{  
-
+    color: darkgoldenrod;
     width:50% ;
     border: 1px solid black;
     margin: auto;
     padding: 50px;
+   
 
 }
     p{  
@@ -41,7 +43,8 @@ main{
         
 .FirstParagraph{
 
-    background-color: gray;
+    background-color: lightsalmon;
+    color: black;
     font-style: normal;
     font-size: 16px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
