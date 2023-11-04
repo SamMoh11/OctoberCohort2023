@@ -1,0 +1,73 @@
+
+
+body{
+
+    
+    width: 75%;
+    margin:auto;
+    padding: 10px;
+}
+
+header nav ul{
+
+        list-style-type: none;
+        display: flex;
+        justify-content: end;
+}
+
+header nav ul li {
+
+    padding: 10px 15px;
+
+}
+
+header nav ul li a{
+
+    text-decoration: none;
+    color: black;
+
+
+}
+
+header nav ul li a:hover{
+
+    border-bottom: 1px solid black;
+}
+
+
+span{
+
+    color: orange;
+}
+
+#top{
+
+    text-align: center;
+    background-color: grey;
+    padding: 20px;
+}
+
+main{
+
+    background-color: orange;
+}
+
+footer{
+
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+   
+}
+
+.flex-container{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    width: 60%;
+    margin: auto;
+    
+}
